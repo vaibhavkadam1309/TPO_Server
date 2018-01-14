@@ -1,0 +1,21 @@
+1. follow link to download mongo DB
+   https://www.mongodb.com/download-center#community
+   install it on your syatem.
+2. create one folder on your system for database use.
+3. Set path for mongo db   
+   -Open cmd and go to bin folder of mongodb (C:\Program Files\MongoDB\Server\3.6\bin)
+   -Run following command
+     mongod.exe --dbpath "E:\Database"  (This path is your created folder path -step 2)
+4. Start Mongo DB
+   - -Open another cmd and go to bin folder of mongodb (C:\Program Files\MongoDB\Server\3.6\bin)
+   - Run following command 
+     mongo.exe  npm
+
+5. git clone 
+6. npm install
+7. Run application 
+   -Open node js  cmd prompt and run following command
+     node app.js
+
+8. Add following extension to google crome
+   https://chrome.google.com/webstore/category/extensions?hl=en
